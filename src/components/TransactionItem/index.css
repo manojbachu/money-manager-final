@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.list-item-titles {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  color: #334155;
+  font-size: 13px;
+  border: 1px solid #cbd5e1;
+  font-family: 'Roboto';
+  padding-left: 12px;
+  border-radius: 5px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-left: 0px;
+}
+
+button {
+  border: none;
+  background: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.delete-image {
+  height: 22px;
+}
